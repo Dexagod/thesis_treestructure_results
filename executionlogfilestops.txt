@@ -1,0 +1,2995 @@
+
+stops prefix 25
+
+CUSTOMLDFETCHLOADED
+1 a
+requesting id http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node22.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node64.jsonld
+data found 25
+1 aa
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node971.jsonld
+data found 25
+1 aal
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3081.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/6/node5497.jsonld
+data found 16
+1 aals
+data found 2
+1 aalst
+data found 2
+1 b
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node3.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node18.jsonld
+data found 25
+1 br
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node27.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node82.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node175.jsonld
+data found 25
+1 bru
+data found 25
+CUSTOMLDFETCHLOADED
+2 z
+requesting id http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node5.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node56.jsonld
+data found 25
+2 ze
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node400.jsonld
+data found 25
+2 zel
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1903.jsonld
+data found 19
+2 b
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node3.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node18.jsonld
+data found 25
+2 br
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node27.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node82.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node175.jsonld
+data found 25
+2 a
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node22.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node64.jsonld
+data found 25
+2 an
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node164.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1320.jsonld
+data found 25
+2 ant
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1809.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3075.jsonld
+data found 25
+2 antw
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3201.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/5/node4699.jsonld
+data found 21
+2 antwe
+data found 21
+2 antwer
+data found 21
+2 antwerp
+data found 21
+2 antwerpe
+data found 0
+2 antwerpen
+data found 0
+CUSTOMLDFETCHLOADED
+3 B
+requesting id http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node3.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node18.jsonld
+data found 25
+3 Bf
+data found 1
+3 Br
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node27.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node82.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node175.jsonld
+data found 25
+3 Bru
+data found 25
+3 Brus
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node856.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1727.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1986.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1989.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1996.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2987.jsonld
+data found 25
+3 Bruss
+data found 25
+3 Brusse
+data found 25
+3 z
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node5.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node56.jsonld
+data found 25
+3 zo
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node441.jsonld
+data found 25
+3 zot
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3097.jsonld
+data found 13
+3 zott
+data found 11
+3 zotte
+data found 11
+3 zotteg
+data found 11
+3 zottege
+data found 11
+3 zottegem
+data found 11
+3 b
+data found 25
+3 br
+data found 25
+3 bru
+data found 25
+3 brus
+data found 25
+3 bruss
+data found 25
+3 brusse
+data found 25
+3 brussel
+data found 25
+3 brussels
+data found 25
+CUSTOMLDFETCHLOADED
+4 m
+requesting id http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node11.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node23.jsonld
+data found 25
+4 mo
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node78.jsonld
+data found 25
+4 mon
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1290.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2437.jsonld
+data found 25
+4 mont
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3217.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3246.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3359.jsonld
+data found 25
+4 o
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node19.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node45.jsonld
+data found 25
+4 ot
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node670.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2965.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3113.jsonld
+data found 25
+4 ott
+data found 25
+4 otti
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3630.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3631.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3632.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3633.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3634.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3635.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3636.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3637.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3638.jsonld
+data found 25
+4 ottig
+data found 25
+4 ottign
+data found 25
+4 ottigni
+data found 25
+4 ottignie
+data found 25
+CUSTOMLDFETCHLOADED
+5 p
+requesting id http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node9.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node30.jsonld
+data found 25
+5 pa
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node43.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node92.jsonld
+data found 25
+5 pak
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3182.jsonld
+data found 2
+5 paku
+data found 0
+5 pakur
+data found 0
+5 h
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node7.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node28.jsonld
+data found 25
+5 ho
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node46.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node98.jsonld
+data found 25
+5 how
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3199.jsonld
+data found 3
+5 howr
+data found 0
+5 howra
+data found 0
+5 howrah
+data found 0
+CUSTOMLDFETCHLOADED
+6 d
+requesting id http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node13.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node25.jsonld
+data found 25
+6 da
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node50.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node171.jsonld
+data found 25
+6 dav
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2547.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3266.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/7/node6397.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/7/node6398.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/7/node6399.jsonld
+data found 25
+6 j
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node297.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node569.jsonld
+data found 25
+6 ja
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node912.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1233.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2073.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2074.jsonld
+data found 25
+6 jal
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3263.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/6/node5172.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/6/node5173.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/6/node5174.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/6/node5175.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/6/node5176.jsonld
+data found 25
+6 jala
+data found 0
+6 jalandhar
+data found 0
+6 jalandhar+c
+data found 0
+6 jalandhar+ci
+data found 0
+6 jalandhar+cit
+data found 0
+6 jalandhar+city
+data found 0
+6 r
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node2.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node44.jsonld
+data found 25
+6 rc
+data found 0
+6 rcf
+data found 0
+6 R
+data found 25
+6 Rc
+data found 0
+6 ra
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node95.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node576.jsonld
+data found 25
+6 rai
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3259.jsonld
+data found 0
+6 rail
+data found 0
+6 rail+c
+data found 0
+6 rail+ca
+data found 0
+6 rail+cao
+data found 0
+6 rail+caoc
+data found 0
+6 rail+caoch
+data found 0
+6 rcf+h
+data found 0
+6 rcf+ha
+data found 0
+6 rcf+har
+data found 0
+6 rcf+hart
+data found 0
+CUSTOMLDFETCHLOADED
+7 g
+requesting id http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node10.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node31.jsonld
+data found 25
+7 b
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node3.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node18.jsonld
+data found 25
+CUSTOMLDFETCHLOADED
+8 b
+requesting id http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node3.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node18.jsonld
+data found 25
+8 bh
+data found 0
+8 bhu
+data found 0
+8 bhuj
+data found 0
+CUSTOMLDFETCHLOADED
+9 {stationname
+requesting id http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+data found 0
+CUSTOMLDFETCHLOADED
+10 R
+requesting id http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node2.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node44.jsonld
+data found 25
+10 Ro
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node81.jsonld
+data found 25
+10 Roe
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node570.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2167.jsonld
+data found 25
+10 Roes
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3191.jsonld
+data found 19
+10 Roesl
+data found 0
+10 Roes
+data found 19
+10 Roese
+data found 12
+10 Roesel
+data found 10
+10 Roesela
+data found 6
+10 Roeselar
+data found 4
+10 Roeselare
+data found 4
+10 G
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node10.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node31.jsonld
+data found 25
+10 Gn
+data found 0
+10 Gne
+data found 0
+10 Gnet
+data found 0
+CUSTOMLDFETCHLOADED
+11 e
+requesting id http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node26.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node71.jsonld
+data found 25
+11 es
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node702.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2679.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2995.jsonld
+data found 25
+11 ess
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3366.jsonld
+data found 24
+11 esse
+data found 22
+11 essen
+data found 17
+CUSTOMLDFETCHLOADED
+12 a
+requesting id http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node22.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node64.jsonld
+data found 25
+12 an
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node164.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1320.jsonld
+data found 25
+12 z
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node5.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node56.jsonld
+data found 25
+12 ze
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node400.jsonld
+data found 25
+12 zel
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1903.jsonld
+data found 19
+12 zele
+data found 5
+CUSTOMLDFETCHLOADED
+13 Antwerp-Berche
+requesting id http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node22.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node164.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1809.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3075.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3201.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/5/node4699.jsonld
+data found 0
+13 Antwerp-Berch
+data found 0
+13 Antwerp-Berc
+data found 0
+13 Antwe
+data found 21
+13 Antw
+data found 21
+13 Ant
+data found 25
+13 An
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1320.jsonld
+data found 25
+13 Antwerp-Ber
+data found 0
+13 Antwerp-Be
+data found 0
+13 Antwerp-B
+data found 0
+13 Antwerp-
+data found 0
+13 Antwerp
+data found 21
+13 Antwer
+data found 21
+13 A
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node64.jsonld
+data found 25
+13 o
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node19.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node45.jsonld
+data found 25
+13 oo
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node143.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node229.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node634.jsonld
+data found 25
+13 oos
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node654.jsonld
+data found 25
+13 oost
+data found 25
+13 ooste
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node721.jsonld
+data found 22
+CUSTOMLDFETCHLOADED
+14 B
+requesting id http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node3.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node18.jsonld
+data found 25
+14 Bi
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node73.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node197.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node492.jsonld
+data found 25
+14 Bik
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3228.jsonld
+data found 3
+14 Bika
+data found 0
+14 Bikaner
+data found 0
+14 N
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node15.jsonld
+data found 25
+14 No
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node550.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node701.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1130.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1145.jsonld
+data found 25
+14 Nok
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1360.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3453.jsonld
+data found 8
+14 Nokh
+data found 0
+14 Nokha
+data found 0
+CUSTOMLDFETCHLOADED
+15 b
+requesting id http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node3.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node18.jsonld
+data found 25
+15 br
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node27.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node82.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node175.jsonld
+data found 25
+15 bru
+data found 25
+15 brug
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node196.jsonld
+data found 25
+15 brugg
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node631.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node855.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1286.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2248.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2648.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3238.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3439.jsonld
+data found 18
+15 brugge
+data found 18
+15 g
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node10.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node31.jsonld
+data found 25
+15 ge
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node119.jsonld
+data found 25
+15 gen
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node322.jsonld
+data found 25
+15 gent
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node347.jsonld
+data found 25
+CUSTOMLDFETCHLOADED
+16 B
+requesting id http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node3.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node18.jsonld
+data found 25
+16 Br
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node27.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node82.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node175.jsonld
+data found 25
+16 Bru
+data found 25
+16 Brug
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node196.jsonld
+data found 25
+16 Brugg
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node631.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node855.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1286.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2248.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2648.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3238.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3439.jsonld
+data found 18
+16 Brugge
+data found 18
+16 G
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node10.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node31.jsonld
+data found 25
+16 Ge
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node119.jsonld
+data found 25
+16 Gen
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node322.jsonld
+data found 25
+16 Gent
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node347.jsonld
+data found 25
+16 Gent-
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3197.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3481.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3483.jsonld
+data found 0
+CUSTOMLDFETCHLOADED
+17 ज
+requesting id http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+data found 0
+17 जा
+data found 0
+17 जब
+data found 0
+17 जबल
+data found 0
+17 जबलप
+data found 0
+17 जबलपु
+data found 0
+17 जबलपुर
+data found 0
+17 jabalpur
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node297.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node569.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3263.jsonld
+data found 0
+17 ह
+data found 0
+17 है
+data found 0
+17 हर
+data found 0
+17 हरि
+data found 0
+17 हृद
+data found 0
+17 हृदव
+data found 0
+17 हृदवा
+data found 0
+17 हरिद्वार
+data found 0
+17 haridwar
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node7.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node145.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node303.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3265.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/5/node4402.jsonld
+data found 0
+CUSTOMLDFETCHLOADED
+18 d
+requesting id http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node13.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node25.jsonld
+data found 25
+18 de
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node75.jsonld
+data found 25
+18 den
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node312.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node498.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3103.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3104.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3105.jsonld
+data found 25
+18 dend
+data found 25
+18 dende
+data found 25
+18 dender
+data found 25
+18 A
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node22.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node64.jsonld
+data found 25
+18 An
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node164.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1320.jsonld
+data found 25
+18 Ant
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1809.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3075.jsonld
+data found 25
+18 Antw
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3201.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/5/node4699.jsonld
+data found 21
+18 Antwe
+data found 21
+18 Antwer
+data found 21
+18 Antwerp
+data found 21
+18 Antwerpe
+data found 0
+18 Antwerpen
+data found 0
+18 a
+data found 25
+18 an
+data found 25
+18 ant
+data found 25
+18 antw
+data found 21
+18 antwe
+data found 21
+18 antwer
+data found 21
+18 antwerp
+data found 21
+18 antwerpe
+data found 0
+18 antwerpen
+data found 0
+CUSTOMLDFETCHLOADED
+19 ant
+requesting id http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node22.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node164.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1809.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3075.jsonld
+data found 25
+CUSTOMLDFETCHLOADED
+20 g
+requesting id http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node10.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node31.jsonld
+data found 25
+20 ge
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node119.jsonld
+data found 25
+20 gent
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node322.jsonld
+data found 0
+20 gen
+data found 25
+20 l
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node8.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node36.jsonld
+data found 25
+20 la
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node49.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node199.jsonld
+data found 25
+20 lan
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node251.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node263.jsonld
+data found 25
+20 land
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node717.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node871.jsonld
+data found 25
+20 lande
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1417.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3299.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3542.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/5/node4052.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/7/node6306.jsonld
+data found 25
+20 landen
+requesting id http://193.190.127.164/stopsprefixtest/25/7/node6307.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/7/node6308.jsonld
+data found 25
+20 lande
+data found 25
+CUSTOMLDFETCHLOADED
+21 b
+requesting id http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node3.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node18.jsonld
+data found 25
+21 brux
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node27.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node82.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2969.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2974.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2975.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2976.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2977.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2978.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2979.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2980.jsonld
+data found 25
+21 bruxelles
+data found 25
+21 br
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node175.jsonld
+data found 25
+21 bruxe
+data found 25
+21 bru
+data found 25
+21 bruxel
+data found 25
+21 bruxell
+data found 25
+21 bruxelle
+data found 25
+21 bruxelles-
+data found 25
+21 bruxelles-n
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3238.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3439.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/5/node4718.jsonld
+data found 14
+21 bruxelles-no
+data found 14
+21 bruxelles-nor
+data found 14
+21 bruxelles-nord
+data found 14
+21 A
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node22.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node64.jsonld
+data found 25
+21 At
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1327.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1808.jsonld
+data found 25
+21 Ath
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2667.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2668.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2821.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2822.jsonld
+data found 25
+CUSTOMLDFETCHLOADED
+22 t
+requesting id http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node12.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node37.jsonld
+data found 25
+22 tu
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node242.jsonld
+data found 25
+22 tur
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1612.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2828.jsonld
+data found 25
+22 turn
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3740.jsonld
+data found 16
+22 turnh
+data found 16
+22 oost
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node19.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node143.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node229.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node634.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node654.jsonld
+data found 25
+22 oosten
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node721.jsonld
+data found 4
+22 oostend
+data found 2
+22 oostende
+data found 0
+CUSTOMLDFETCHLOADED
+23 b
+requesting id http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node3.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node18.jsonld
+data found 25
+23 br
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node27.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node82.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node175.jsonld
+data found 25
+23 bru
+data found 25
+23 brus
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node856.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1727.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1986.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1989.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1996.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2987.jsonld
+data found 25
+23 bruss
+data found 25
+23 l
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node8.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node36.jsonld
+data found 25
+23 le
+data found 25
+23 leu
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1350.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2741.jsonld
+data found 25
+23 leuv
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3190.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/5/node4054.jsonld
+data found 18
+23 leuve
+data found 18
+23 leuven
+data found 18
+23 M
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node11.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node23.jsonld
+data found 25
+23 L
+data found 25
+23 Le
+data found 25
+23 Leu
+data found 25
+23 Leuv
+data found 18
+23 Leuve
+data found 18
+23 Leuven
+data found 18
+CUSTOMLDFETCHLOADED
+24 Oostend
+requesting id http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node19.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node143.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node229.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node634.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node721.jsonld
+data found 2
+24 Oos
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node654.jsonld
+data found 25
+24 ti
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node12.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node353.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1067.jsonld
+data found 25
+24 tie
+data found 25
+24 tiel
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3188.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/6/node5388.jsonld
+data found 20
+24 tielt
+data found 14
+24 Tiele
+data found 6
+24 Tiel
+data found 20
+24 Tielen
+data found 6
+CUSTOMLDFETCHLOADED
+25 a
+requesting id http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node22.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node64.jsonld
+data found 25
+25 Sint-Niklaas
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node4.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node16.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node54.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node58.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node59.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3186.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/7/node6564.jsonld
+data found 5
+CUSTOMLDFETCHLOADED
+26 Brussel-Zuid/Bruxelles-Mid
+requesting id http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node3.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node27.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node82.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node856.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1727.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1986.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1989.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3238.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3439.jsonld
+data found 0
+26 Brussel-Zuid/Bruxelles-Mi
+data found 0
+26 Brussel-Zuid/Bruxelles-M
+data found 0
+26 Brussel-Zuid/Bruxelles-
+data found 0
+26 Brussel-Zuid/Bru
+data found 0
+26 Brussel-Zuid/Bruxelles
+data found 0
+26 Brussel-Zuid/B
+data found 0
+26 Brussel-Zuid/
+data found 0
+26 Brussel-Zuid/Bruxelle
+data found 0
+26 Brussel-Zui
+data found 0
+26 Brussel-Zuid/Bruxell
+data found 0
+26 Brussel-Z
+data found 0
+26 Brussel-
+data found 0
+26 Brussel-Zuid/Bruxel
+data found 0
+26 Brusse
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1996.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2987.jsonld
+data found 25
+26 Brussel-Zuid/Bruxe
+data found 0
+26 Brussel-Zuid/Brux
+data found 0
+26 Brussel-Zuid/Br
+data found 0
+26 Brussel-Zuid
+data found 0
+26 Brussel-Zu
+data found 0
+26 Brussel
+data found 25
+26 Bruss
+data found 25
+CUSTOMLDFETCHLOADED
+27 b
+requesting id http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node3.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node18.jsonld
+data found 25
+27 br
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node27.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node82.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node175.jsonld
+data found 25
+27 bru
+data found 25
+27 brux
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2969.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2974.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2975.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2976.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2977.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2978.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2979.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2980.jsonld
+data found 25
+27 l
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node8.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node36.jsonld
+data found 25
+27 le
+data found 25
+27 leu
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1350.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2741.jsonld
+data found 25
+27 leuz
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3190.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/5/node4054.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/5/node4764.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/5/node4765.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/5/node4766.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/5/node4767.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/5/node4768.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/5/node4769.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/5/node4770.jsonld
+data found 25
+27 leuze
+data found 25
+27 b
+data found 25
+27 br
+data found 25
+27 bru
+data found 25
+27 brux
+data found 25
+27 l
+data found 25
+27 le
+data found 25
+27 leu
+data found 25
+27 leuz
+data found 25
+27 leuze
+data found 25
+CUSTOMLDFETCHLOADED
+28 l
+requesting id http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node8.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node36.jsonld
+data found 25
+28 lo
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node112.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node193.jsonld
+data found 25
+28 lou
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2966.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3013.jsonld
+data found 25
+28 louv
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3223.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3290.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3558.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3559.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3560.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3561.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3562.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3563.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3564.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3565.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3566.jsonld
+data found 22
+28 louva
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3567.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3568.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3569.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3570.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3571.jsonld
+data found 25
+28 louvai
+data found 25
+28 louvain
+data found 25
+28 louvain+l
+data found 0
+28 louvain+la
+data found 0
+28 L
+data found 25
+28 Lo
+data found 25
+28 Lou
+data found 25
+28 Louv
+data found 25
+28 Louva
+data found 25
+28 Louvan
+data found 0
+28 Louvai
+data found 25
+28 Louvain
+data found 25
+28 B
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node3.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node18.jsonld
+data found 25
+28 Br
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node27.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node82.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node175.jsonld
+data found 25
+28 Bru
+data found 25
+28 Brus
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node856.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1727.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1986.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1989.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1996.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2987.jsonld
+data found 25
+28 Bruss
+data found 25
+CUSTOMLDFETCHLOADED
+29 le
+requesting id http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node8.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node36.jsonld
+data found 25
+29 leu
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1350.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2741.jsonld
+data found 25
+29 leuv
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3190.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/5/node4054.jsonld
+data found 18
+29 leuve
+data found 18
+29 leuven
+data found 18
+CUSTOMLDFETCHLOADED
+30 g
+requesting id http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node10.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node31.jsonld
+data found 25
+30 ge
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node119.jsonld
+data found 25
+30 gen
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node322.jsonld
+data found 25
+30 gent
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node347.jsonld
+data found 25
+30 k
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node6.jsonld
+data found 25
+30 ko
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node32.jsonld
+data found 25
+30 kor
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node103.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node362.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node476.jsonld
+data found 25
+30 kort
+data found 25
+30 kortr
+data found 5
+30 kortri
+data found 5
+30 kortrij
+data found 5
+30 kortrijk
+data found 5
+CUSTOMLDFETCHLOADED
+31 G
+requesting id http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node10.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node31.jsonld
+data found 25
+31 Ge
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node119.jsonld
+data found 25
+31 Gen
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node322.jsonld
+data found 25
+31 Gent
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node347.jsonld
+data found 25
+31 L
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node8.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node36.jsonld
+data found 25
+31 La
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node49.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node199.jsonld
+data found 25
+31 Lan
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node251.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node263.jsonld
+data found 25
+31 Land
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node717.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node871.jsonld
+data found 25
+31 Lande
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1417.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3299.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3542.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/5/node4052.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/7/node6306.jsonld
+data found 25
+31 Landeg
+data found 8
+31 Landegr
+data found 0
+31 Landegrm
+data found 0
+31 Landege
+data found 8
+31 Landegem
+data found 8
+CUSTOMLDFETCHLOADED
+32 k
+requesting id http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node6.jsonld
+data found 25
+32 ko
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node32.jsonld
+data found 25
+32 kot
+data found 2
+32 kota
+data found 0
+32 v
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node1.jsonld
+data found 25
+32 va
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node21.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node62.jsonld
+data found 25
+32 vad
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3192.jsonld
+data found 4
+32 vado
+data found 0
+32 vadou
+data found 0
+32 vadod
+data found 0
+32 vadoda
+data found 0
+32 vadodah
+data found 0
+32 vadodahra
+data found 0
+32 vadodahrah
+data found 0
+32 vadodahr
+data found 0
+32 vadodar
+data found 0
+32 vadodara
+data found 0
+32 vadodarak
+data found 0
+32 vadodarakl
+data found 0
+CUSTOMLDFETCHLOADED
+33 g
+requesting id http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node10.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node31.jsonld
+data found 25
+33 ge
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node119.jsonld
+data found 25
+33 gen
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node322.jsonld
+data found 25
+33 gent
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node347.jsonld
+data found 25
+33 l
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node8.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node36.jsonld
+data found 25
+33 le
+data found 25
+33 leu
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1350.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2741.jsonld
+data found 25
+33 leuv
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3190.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/5/node4054.jsonld
+data found 18
+33 leuve
+data found 18
+CUSTOMLDFETCHLOADED
+34 z
+requesting id http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node5.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node56.jsonld
+data found 25
+34 zo
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node441.jsonld
+data found 25
+34 zot
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3097.jsonld
+data found 13
+34 zott
+data found 11
+34 zotte
+data found 11
+34 zotteg
+data found 11
+34 zottege
+data found 11
+34 b
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node3.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node18.jsonld
+data found 25
+34 br
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node27.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node82.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node175.jsonld
+data found 25
+34 bru
+data found 25
+34 brus
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node856.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1727.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1986.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1989.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1996.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2987.jsonld
+data found 25
+34 bruss
+data found 25
+34 brusse
+data found 25
+CUSTOMLDFETCHLOADED
+35 m
+requesting id http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node11.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node23.jsonld
+data found 25
+35 mo
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node78.jsonld
+data found 25
+35 mon
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1290.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2437.jsonld
+data found 25
+35 mons
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3217.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3246.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/5/node4452.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/5/node4453.jsonld
+data found 25
+35 l
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node8.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node36.jsonld
+data found 25
+35 lo
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node112.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node193.jsonld
+data found 25
+35 lou
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2966.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3013.jsonld
+data found 25
+35 louvain-la
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3223.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3290.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3558.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3559.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3560.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3561.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3562.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3563.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3564.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3565.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3566.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3567.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3568.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3569.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3570.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3571.jsonld
+data found 25
+35 louvain-la-
+data found 25
+35 louv
+data found 25
+35 louva
+data found 25
+35 louvai
+data found 25
+35 louvain
+data found 25
+35 louvain-
+data found 25
+35 louvain-l
+data found 25
+35 louvain-la-n
+data found 25
+35 louvain-la-ne
+data found 25
+35 louvain-la-neu
+data found 25
+35 louvain-la-neuv
+data found 25
+35 louvain-la-neuve
+data found 25
+CUSTOMLDFETCHLOADED
+36 i
+requesting id http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node52.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node243.jsonld
+data found 25
+36 ir
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2175.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/5/node4755.jsonld
+data found 25
+36 ira
+data found 0
+36 irai
+data found 0
+36 l
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node8.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node36.jsonld
+data found 25
+36 le
+data found 25
+36 leu
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1350.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2741.jsonld
+data found 25
+36 leuv
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3190.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/5/node4054.jsonld
+data found 18
+36 b
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node3.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node18.jsonld
+data found 25
+36 by
+data found 0
+CUSTOMLDFETCHLOADED
+37 Brussel-Zuid/Bruelles-Midi
+requesting id http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node3.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node27.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node82.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node856.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1727.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1986.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1989.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3238.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3439.jsonld
+data found 0
+37 Brussel-Zuid/Brelles-Midi
+data found 0
+37 Brussel-Zuid/Belles-Midi
+data found 0
+37 Brussel-Zuid/elles-Midi
+data found 0
+37 Brussel-Zuidelles-Midi
+data found 0
+37 Brussel-Zuielles-Midi
+data found 0
+37 Brussel-Zuelles-Midi
+data found 0
+37 Brussel-Zelles-Midi
+data found 0
+37 Brussel-elles-Midi
+data found 0
+37 Brussel-ell
+data found 0
+37 Brussel-el
+data found 0
+37 Brussel-elles-Mid
+data found 0
+37 Brussel-
+data found 0
+37 Brussel-elles-Mi
+data found 0
+37 Brussel-elles-M
+data found 0
+37 Brussel-elles-
+data found 0
+37 Brussel-elles
+data found 0
+37 Brussel-elle
+data found 0
+37 Brussel-e
+data found 0
+37 Brussel
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1996.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2987.jsonld
+data found 25
+37 Brusse
+data found 25
+37 Brussel
+data found 25
+37 Brusse
+data found 25
+37 Bruss
+data found 25
+37 Brus
+data found 25
+37 Bru
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node175.jsonld
+data found 25
+37 Br
+data found 25
+37 B
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node18.jsonld
+data found 25
+37 c
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node14.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node60.jsonld
+data found 25
+37 ce
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node371.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node953.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node972.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node992.jsonld
+data found 25
+37 centr
+data found 25
+37 cent
+data found 25
+37 cen
+data found 25
+37 cent
+data found 25
+37 centr
+data found 25
+37 centrr
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3241.jsonld
+data found 0
+37 centrra
+data found 0
+37 centrr
+data found 0
+CUSTOMLDFETCHLOADED
+38 m
+requesting id http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node11.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node23.jsonld
+data found 25
+38 me
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node34.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node94.jsonld
+data found 25
+38 mec
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1524.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2270.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2271.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2951.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2952.jsonld
+data found 25
+38 mech
+data found 25
+38 meche
+data found 25
+38 mechel
+data found 25
+38 mechele
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3193.jsonld
+data found 0
+38 mechelen
+data found 0
+38 n
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node15.jsonld
+data found 25
+38 no
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node550.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node701.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1130.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1145.jsonld
+data found 25
+38 noo
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1149.jsonld
+data found 25
+38 noor
+data found 25
+38 noord
+data found 25
+38 noorde
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1914.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3453.jsonld
+data found 22
+38 noorder
+data found 15
+38 noorderd
+data found 0
+38 noorderdo
+data found 0
+CUSTOMLDFETCHLOADED
+39 L
+requesting id http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node8.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node36.jsonld
+data found 25
+39 Li
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node261.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node290.jsonld
+data found 25
+39 Lic
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1053.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3210.jsonld
+data found 25
+39 B
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node3.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node18.jsonld
+data found 25
+39 Br
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node27.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node82.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node175.jsonld
+data found 25
+CUSTOMLDFETCHLOADED
+40 Bru
+requesting id http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node3.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node27.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node82.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node175.jsonld
+data found 25
+40 Brug
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node196.jsonld
+data found 25
+CUSTOMLDFETCHLOADED
+41 b
+requesting id http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node3.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node18.jsonld
+data found 25
+41 be
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node57.jsonld
+data found 25
+41 m
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node11.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node23.jsonld
+data found 25
+41 ma
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node53.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node113.jsonld
+data found 25
+41 mar
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node259.jsonld
+data found 25
+41 br
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node27.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node82.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node175.jsonld
+data found 25
+41 bru
+data found 25
+CUSTOMLDFETCHLOADED
+42 a
+requesting id http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node22.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node64.jsonld
+data found 25
+42 al
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node311.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1332.jsonld
+data found 25
+42 ald
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2909.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3185.jsonld
+data found 9
+CUSTOMLDFETCHLOADED
+43 B
+requesting id http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node3.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node18.jsonld
+data found 25
+43 Bru
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node27.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node82.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node175.jsonld
+data found 25
+43 Br
+data found 25
+43 Brus
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node856.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1727.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1986.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1989.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1996.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2987.jsonld
+data found 23
+43 Bruss
+data found 25
+43 Brusse
+data found 25
+43 Brussel
+data found 25
+43 Brussels
+data found 25
+43 L
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node8.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node36.jsonld
+data found 25
+43 Lo
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node112.jsonld
+data found 0
+43 Lou
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node193.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2966.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3013.jsonld
+data found 25
+43 Louv
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3223.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3290.jsonld
+data found 20
+43 Louvai
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3558.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3559.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3560.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3561.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3562.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3563.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3564.jsonld
+data found 20
+43 Louvain
+data found 20
+CUSTOMLDFETCHLOADED
+44 
+requesting id http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node1.jsonld
+data found 25
+CUSTOMLDFETCHLOADED
+45 b
+requesting id http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node3.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node18.jsonld
+data found 25
+45 br
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node27.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node82.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node175.jsonld
+data found 25
+45 bru
+data found 25
+45 brug
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node196.jsonld
+data found 25
+45 brugg
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node631.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node855.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1286.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2248.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2648.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3238.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3439.jsonld
+data found 18
+45 brugge
+data found 18
+45 B
+data found 25
+45 BR
+data found 25
+45 BRU
+data found 25
+45 BRUG
+data found 25
+45 BRUGG
+data found 18
+45 BRUGGE
+data found 18
+45 C
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node14.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node60.jsonld
+data found 25
+45 CO
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node161.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node372.jsonld
+data found 25
+45 COU
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1839.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3055.jsonld
+data found 25
+45 COUV
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3187.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3455.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/7/node6063.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/7/node6064.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/7/node6065.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/7/node6066.jsonld
+data found 25
+45 COUVI
+data found 25
+45 COUVIN
+data found 25
+CUSTOMLDFETCHLOADED
+46 a
+requesting id http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node22.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node64.jsonld
+data found 25
+46 an
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node164.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1320.jsonld
+data found 25
+46 ant
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1809.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3075.jsonld
+data found 25
+46 antw
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3201.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/5/node4699.jsonld
+data found 21
+46 antwe
+data found 21
+46 antwer
+data found 21
+46 Gent
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node10.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node31.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node119.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node322.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node347.jsonld
+data found 25
+CUSTOMLDFETCHLOADED
+47 k
+requesting id http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node6.jsonld
+data found 25
+47 b
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node3.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node18.jsonld
+data found 25
+47 bw
+data found 0
+47 bwi
+data found 0
+47 bwip
+data found 0
+47 bh
+data found 0
+47 bha
+data found 0
+47 bhaw
+data found 0
+47 bhawa
+data found 0
+47 bhawan
+data found 0
+47 bhawani
+data found 0
+47 bhawanip
+data found 0
+47 bhawanipa
+data found 0
+47 bhawanipat
+data found 0
+47 bhawanipatn
+data found 0
+47 bhawanipatna
+data found 0
+47 bb
+data found 0
+47 bbs
+data found 0
+47 bbsr
+data found 0
+29 t
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node12.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node37.jsonld
+data found 25
+29 ti
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node353.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1067.jsonld
+data found 25
+29 tie
+data found 25
+29 tien
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1692.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3188.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/6/node5388.jsonld
+data found 25
+29 tiene
+data found 6
+29 tienen
+data found 6
+CUSTOMLDFETCHLOADED
+48 e
+requesting id http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node26.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node71.jsonld
+data found 25
+48 es
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node702.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2679.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2995.jsonld
+data found 25
+48 ess
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3366.jsonld
+data found 24
+48 esse
+data found 22
+48 essen
+data found 17
+CUSTOMLDFETCHLOADED
+49 s
+requesting id http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node4.jsonld
+data found 25
+49 sa
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node133.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node715.jsonld
+data found 25
+49 sai
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3010.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3093.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3119.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3123.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3130.jsonld
+data found 25
+49 sain
+data found 25
+49 saint
+data found 25
+49 saint-
+data found 25
+49 saint-g
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3212.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3254.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3304.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3305.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3309.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3375.jsonld
+data found 25
+CUSTOMLDFETCHLOADED
+50 l
+requesting id http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node8.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node36.jsonld
+data found 25
+50 le
+data found 25
+50 leu
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1350.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2741.jsonld
+data found 25
+50 leuv
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3190.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/5/node4054.jsonld
+data found 18
+50 b
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node3.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node18.jsonld
+data found 25
+50 be
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node57.jsonld
+data found 25
+50 ber
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node102.jsonld
+data found 25
+50 berh
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3215.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3284.jsonld
+data found 0
+50 berhc
+data found 0
+50 berc
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1817.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/5/node4324.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/7/node6755.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/7/node6756.jsonld
+data found 25
+CUSTOMLDFETCHLOADED
+51 k
+requesting id http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node6.jsonld
+data found 25
+51 ko
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node32.jsonld
+data found 25
+51 kor
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node103.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node362.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node476.jsonld
+data found 25
+51 kort
+data found 25
+CUSTOMLDFETCHLOADED
+52 b
+requesting id http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node3.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node18.jsonld
+data found 25
+52 bu
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node48.jsonld
+data found 25
+52 bur
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node188.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node464.jsonld
+data found 25
+52 burs
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3374.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/5/node4997.jsonld
+data found 5
+52 burss
+data found 0
+52 bursse
+data found 0
+52 burssel
+data found 0
+52 f
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node76.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node249.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node713.jsonld
+data found 25
+52 fr
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node845.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1261.jsonld
+data found 25
+52 frn
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3275.jsonld
+data found 0
+52 frna
+data found 0
+52 frnak
+data found 0
+52 fra
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1865.jsonld
+data found 25
+52 fran
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2100.jsonld
+data found 25
+52 frank
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3964.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/6/node5082.jsonld
+data found 10
+52 frankf
+data found 0
+52 frankfu
+data found 0
+52 frankfur
+data found 0
+52 frankfurt
+data found 0
+CUSTOMLDFETCHLOADED
+53 b
+requesting id http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node3.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node18.jsonld
+data found 25
+53 br
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node27.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node82.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node175.jsonld
+data found 25
+53 bru
+data found 25
+53 m
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node11.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node23.jsonld
+data found 25
+53 me
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node34.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node94.jsonld
+data found 25
+53 mec
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1524.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2270.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2271.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2951.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2952.jsonld
+data found 25
+53 mech
+data found 25
+53 meche
+data found 25
+53 Mechelen-
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3193.jsonld
+data found 0
+CUSTOMLDFETCHLOADED
+54 k
+requesting id http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node6.jsonld
+data found 25
+54 ko
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node32.jsonld
+data found 25
+54 kor
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node103.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node362.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node476.jsonld
+data found 25
+54 kort
+data found 25
+54 kortr
+data found 5
+54 kortri
+data found 5
+54 kortrij
+data found 5
+54 kortrijk
+data found 5
+54 Ieper
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node52.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node937.jsonld
+data found 5
+54 g
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node10.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node31.jsonld
+data found 25
+54 ge
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node119.jsonld
+data found 25
+54 gen
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node322.jsonld
+data found 25
+54 gent
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node347.jsonld
+data found 25
+54 b
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node3.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node18.jsonld
+data found 25
+54 br
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node27.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node82.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node175.jsonld
+data found 25
+54 bru
+data found 25
+54 brus
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node856.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1727.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1986.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1989.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1996.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2987.jsonld
+data found 25
+54 bruss
+data found 25
+CUSTOMLDFETCHLOADED
+55 g
+requesting id http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node10.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node31.jsonld
+data found 25
+55 br
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node3.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node27.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node82.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node175.jsonld
+data found 25
+55 b
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node18.jsonld
+data found 25
+55 bru
+data found 25
+CUSTOMLDFETCHLOADED
+56 m
+requesting id http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node11.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node23.jsonld
+data found 25
+56 me
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node34.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node94.jsonld
+data found 25
+56 mer
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node170.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1744.jsonld
+data found 25
+56 mero
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3193.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3233.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3456.jsonld
+data found 15
+56 merod
+data found 15
+56 k
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node6.jsonld
+data found 25
+56 ko
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node32.jsonld
+data found 25
+56 kon
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node269.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node742.jsonld
+data found 25
+56 kont
+data found 10
+56 konti
+data found 8
+CUSTOMLDFETCHLOADED
+57 b
+requesting id http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node3.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node18.jsonld
+data found 25
+57 br
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node27.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node82.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node175.jsonld
+data found 25
+57 bru
+data found 25
+57 brux
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2969.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2974.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2975.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2976.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2977.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2978.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2979.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2980.jsonld
+data found 25
+57 bruxe
+data found 25
+57 bruxel
+data found 25
+57 bruxell
+data found 25
+57 bruxelle
+data found 25
+57 bruxelles
+data found 25
+57 bra
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node205.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node496.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1422.jsonld
+data found 25
+57 brai
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3065.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3238.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3388.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3389.jsonld
+data found 25
+57 brain
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3390.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3391.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3392.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3393.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3394.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3395.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3396.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3397.jsonld
+data found 25
+57 braine
+data found 25
+CUSTOMLDFETCHLOADED
+58 Brussel-Noord/Bruxelles-Nor
+requesting id http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node3.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node27.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node82.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node856.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1727.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1986.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1989.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3238.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3439.jsonld
+data found 0
+58 Brussel-Noord/Bruxelles-No
+data found 0
+58 Brussel-Noord/Bruxelles-
+data found 0
+58 Brussel-Noord/Bru
+data found 0
+58 Brussel-Noord/Br
+data found 0
+58 Brussel-Noord/B
+data found 0
+58 Brussel-Noord/
+data found 0
+58 Brussel-Noord/Bruxelles
+data found 0
+58 Brussel-Noor
+data found 0
+58 Brussel-Noo
+data found 0
+58 Brussel-No
+data found 0
+58 Brussel-N
+data found 0
+58 Brussel-Noord/Bruxelle
+data found 0
+58 Brusse
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1996.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2987.jsonld
+data found 25
+58 Brus
+data found 25
+58 Brussel-Noord/Bruxelles-N
+data found 0
+58 Brussel-Noord/Bruxell
+data found 0
+58 Brussel-Noord/Bruxel
+data found 0
+58 Brussel-Noord/Bruxe
+data found 0
+58 Brussel-Noord/Brux
+data found 0
+58 Brussel-Noord
+data found 0
+58 Brussel-
+data found 0
+58 a
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node22.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node64.jsonld
+data found 25
+58 an
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node164.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1320.jsonld
+data found 25
+58 anv
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2989.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2990.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2991.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2992.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2993.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2994.jsonld
+data found 25
+58 anve
+data found 25
+58 anver
+data found 25
+58 anvers
+data found 25
+38 N
+data found 25
+38 No
+data found 25
+38 Noo
+data found 25
+38 Noor
+data found 25
+38 Noord
+data found 25
+38 Noorde
+data found 22
+38 Noorderdokken
+data found 0
+38 Noorder
+data found 15
+58 Mortsel-Oude+Go
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node11.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node23.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node420.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1904.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3120.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3217.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/5/node4630.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/6/node5245.jsonld
+data found 0
+58 Mortsel-Oude+G
+data found 0
+58 Mortsel-Oude
+data found 4
+58 Mortsel-Oud
+data found 4
+58 Mortsel-Ou
+data found 4
+58 Mortsel-O
+data found 4
+58 Mortsel-
+data found 12
+58 Mortsel
+data found 16
+58 Mortse
+data found 16
+55 Gent-Sint-Pieterso
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node119.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node322.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3197.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3481.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3483.jsonld
+data found 0
+CUSTOMLDFETCHLOADED
+59 A
+requesting id http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node22.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node64.jsonld
+data found 25
+59 Am
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node619.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1766.jsonld
+data found 25
+59 Ams
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3330.jsonld
+data found 4
+59 Amst
+data found 4
+59 Amste
+data found 4
+59 Amster
+data found 3
+59 Amsterd
+data found 3
+59 Amsterda
+data found 3
+59 Amsterdam
+data found 3
+59 An
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node164.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1320.jsonld
+data found 25
+59 Ant
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1809.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3075.jsonld
+data found 25
+59 Antw
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3201.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/5/node4699.jsonld
+data found 21
+59 Antwe
+data found 21
+59 Antwer
+data found 21
+59 Antwerp
+data found 21
+59 Antwerpe
+data found 0
+59 Antwerpen
+data found 0
+59 R
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node2.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node44.jsonld
+data found 25
+59 Ro
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node81.jsonld
+data found 25
+59 Rot
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node940.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2464.jsonld
+data found 25
+59 Rott
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3191.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/6/node5316.jsonld
+data found 3
+59 Rotte
+data found 3
+59 Rotter
+data found 3
+59 Rotterd
+data found 2
+59 Rotterda
+data found 2
+59 Rotterdam
+data found 2
+59 Rotterdam+C
+data found 0
+59 Rotterdam+CS
+data found 0
+56 v
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node1.jsonld
+data found 25
+56 vi
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node88.jsonld
+data found 25
+59 S
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node4.jsonld
+data found 25
+56 vil
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1054.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2959.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3070.jsonld
+data found 25
+59 Sc
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node51.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node128.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node132.jsonld
+data found 25
+56 vilv
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3203.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3758.jsonld
+data found 12
+59 Sch
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node383.jsonld
+data found 25
+59 Schi
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node884.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1615.jsonld
+data found 25
+59 Schip
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1626.jsonld
+data found 25
+59 Schiph
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2319.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3253.jsonld
+data found 1
+59 Schipho
+data found 1
+59 Schiphol
+data found 1
+58 Mortsel-Liersesteenwe
+data found 4
+58 Mortsel-Liersesteenw
+data found 4
+58 Mortsel-Liersesteen
+data found 4
+58 Mortsel-Liersestee
+data found 4
+58 Mortsel-Lie
+data found 4
+58 Mortsel-Lierseste
+data found 4
+58 Mortsel-L
+data found 4
+58 Mortsel-Liersest
+data found 4
+58 Mort
+data found 25
+58 Mor
+data found 25
+58 Mo
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node78.jsonld
+data found 25
+58 M
+data found 25
+58 Mortsel-Lierses
+data found 4
+58 Mortsel-Lierse
+data found 4
+58 Mortsel-Liers
+data found 4
+58 Mortsel-Lier
+data found 4
+58 Mortsel-Li
+data found 4
+58 Morts
+data found 16
+58 b
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node18.jsonld
+data found 25
+58 br
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node175.jsonld
+data found 25
+58 bru
+data found 25
+58 Antwerp-Centr
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1809.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3075.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3201.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/5/node4699.jsonld
+data found 0
+58 Antwerp-Cent
+data found 0
+58 Antwe
+data found 21
+58 Antw
+data found 21
+58 Antwerp-Cen
+data found 0
+58 An
+data found 25
+58 A
+data found 25
+58 Antwerp-Centra
+data found 0
+58 Antwerp-Ce
+data found 0
+58 Antwerp-C
+data found 0
+58 Antwerp-
+data found 0
+58 Antwerp
+data found 21
+58 mortd
+data found 0
+58 Antwer
+data found 21
+58 Ant
+data found 25
+58 m
+data found 25
+58 mo
+data found 25
+58 mor
+data found 25
+58 mort
+data found 25
+58 mortde
+data found 0
+58 mortd
+data found 0
+58 mort
+data found 25
+58 morts
+data found 16
+CUSTOMLDFETCHLOADED
+60 b
+requesting id http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node3.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node18.jsonld
+data found 25
+60 bi
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node73.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node197.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node492.jsonld
+data found 25
+60 bie
+data found 25
+60 bier
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3114.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3228.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3387.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3408.jsonld
+data found 25
+60 bierg
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3409.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3410.jsonld
+data found 25
+60 bierge
+data found 18
+60 bierges
+data found 18
+60 z
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node5.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node56.jsonld
+data found 25
+60 zu
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node69.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node876.jsonld
+data found 25
+60 zui
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1023.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1036.jsonld
+data found 25
+60 zuid
+data found 25
+60 t
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node12.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node37.jsonld
+data found 25
+60 to
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node74.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node221.jsonld
+data found 25
+60 tou
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3240.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3721.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3722.jsonld
+data found 25
+60 tour
+data found 25
+60 c
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node14.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node60.jsonld
+data found 25
+60 ce
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node371.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node953.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node972.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node992.jsonld
+data found 25
+60 cen
+data found 25
+60 cent
+data found 25
+60 centr
+data found 25
+60 centra
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3241.jsonld
+data found 20
+60 centraa
+data found 11
+60 centraal
+data found 11
+CUSTOMLDFETCHLOADED
+61 a
+requesting id http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node22.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node64.jsonld
+data found 25
+61 an
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node164.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1320.jsonld
+data found 25
+61 l
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node8.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node36.jsonld
+data found 25
+61 le
+data found 25
+61 leu
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1350.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2741.jsonld
+data found 25
+61 leuv
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3190.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/5/node4054.jsonld
+data found 18
+61 leuve
+data found 18
+61 leuven
+data found 18
+CUSTOMLDFETCHLOADED
+62 v
+requesting id http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+data found 0
+62 va
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node1.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node21.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node62.jsonld
+data found 25
+62 var
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1328.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2626.jsonld
+data found 25
+62 vara
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3192.jsonld
+data found 0
+62 varan
+data found 0
+62 varana
+data found 0
+62 varanas
+data found 0
+62 varanasi
+data found 0
+62 j
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node297.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node569.jsonld
+data found 25
+62 ja
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node912.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1233.jsonld
+data found 23
+62 jai
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3263.jsonld
+data found 0
+62 jaip
+data found 0
+62 jaipu
+data found 0
+62 jaipur
+data found 0
+CUSTOMLDFETCHLOADED
+63 a
+requesting id http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node22.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node64.jsonld
+data found 25
+63 ah
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3177.jsonld
+data found 5
+63 ahm
+data found 0
+63 ahme
+data found 0
+63 ahmed
+data found 0
+63 ahmeda
+data found 0
+63 ahmedab
+data found 0
+63 ahmedaba
+data found 0
+63 ahmedabad
+data found 0
+63 j
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node297.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node569.jsonld
+data found 25
+63 ja
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node912.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1233.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2073.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2074.jsonld
+data found 25
+63 jam
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3263.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/5/node4050.jsonld
+data found 25
+63 jamm
+data found 0
+63 jammu
+data found 0
+63 jammu+t
+data found 0
+63 jammu+ta
+data found 0
+63 jammu+taw
+data found 0
+63 jammu+tawi
+data found 0
+CUSTOMLDFETCHLOADED
+64 Brussels-Nort
+requesting id http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node3.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node27.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node82.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node856.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1727.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1986.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1989.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1996.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3238.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3439.jsonld
+data found 0
+64 Brussels-Nor
+data found 0
+64 Brussels-No
+data found 0
+64 Brussels-N
+data found 0
+64 Brussels-
+data found 0
+64 Brussels
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2987.jsonld
+data found 25
+64 Brussel
+data found 25
+64 Brusse
+data found 25
+64 Bruss
+data found 25
+64 Brus
+data found 25
+64 Bru
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node175.jsonld
+data found 25
+64 Br
+data found 25
+64 B
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node18.jsonld
+data found 25
+64 ant
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node22.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node164.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1809.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3075.jsonld
+data found 25
+64 antw
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3201.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/5/node4699.jsonld
+data found 21
+64 antwe
+data found 21
+CUSTOMLDFETCHLOADED
+65 g
+requesting id http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node10.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node31.jsonld
+data found 25
+65 ge
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node119.jsonld
+data found 25
+65 gen
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node322.jsonld
+data found 25
+65 gent
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node347.jsonld
+data found 25
+65 gent+d
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3197.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3481.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3483.jsonld
+data found 0
+65 gent+da
+data found 0
+65 a
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node22.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node64.jsonld
+data found 25
+65 an
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node164.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1320.jsonld
+data found 25
+65 ant
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1809.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3075.jsonld
+data found 25
+65 antw
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3201.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/5/node4699.jsonld
+data found 21
+65 antwe
+data found 21
+65 antwer
+data found 21
+CUSTOMLDFETCHLOADED
+66 b
+requesting id http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node3.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node18.jsonld
+data found 25
+66 br
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node27.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node82.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node175.jsonld
+data found 25
+66 bru
+data found 25
+66 g
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node10.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node31.jsonld
+data found 25
+CUSTOMLDFETCHLOADED
+67 A
+requesting id http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node22.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node64.jsonld
+data found 25
+CUSTOMLDFETCHLOADED
+68 g
+requesting id http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node10.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node31.jsonld
+data found 25
+68 ge
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node119.jsonld
+data found 25
+68 gen
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node322.jsonld
+data found 25
+68 gent
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node347.jsonld
+data found 25
+68 b
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node3.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node18.jsonld
+data found 25
+68 br
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node27.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node82.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node175.jsonld
+data found 25
+68 bru
+data found 25
+68 brus
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node856.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1727.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1986.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1989.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1996.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2987.jsonld
+data found 25
+68 bruss
+data found 25
+CUSTOMLDFETCHLOADED
+69 g
+requesting id http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node10.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node31.jsonld
+data found 25
+69 b
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node3.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node18.jsonld
+data found 25
+CUSTOMLDFETCHLOADED
+70 b
+requesting id http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node3.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node18.jsonld
+data found 25
+70 be
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node57.jsonld
+data found 25
+70 bee
+data found 25
+70 a
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node22.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node64.jsonld
+data found 25

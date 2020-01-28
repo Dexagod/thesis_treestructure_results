@@ -1,0 +1,740 @@
+
+stops prefix 25
+
+PROGRESS 0.00044822949350067237
+CUSTOMLDFETCHLOADED
+1 a
+requesting id http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node22.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/1/node22.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node64.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/1/node64.jsonld
+data found 13
+1 aa
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node22.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node64.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node971.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/1/node971.jsonld
+data found 25
+1 aal
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node22.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node64.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3081.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/4/node3081.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/6/node5497.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/6/node5497.jsonld
+data found 16
+1 aals
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node22.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node64.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/4/node3081.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/6/node5497.jsonld
+data found 2
+1 aalst
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node22.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node64.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/4/node3081.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/6/node5497.jsonld
+data found 2
+PROGRESS 0.0008964589870013447
+1 b
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node3.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/1/node3.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node18.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/1/node18.jsonld
+data found 25
+1 br
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node3.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node27.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/1/node27.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node82.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/1/node82.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node175.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/1/node175.jsonld
+data found 25
+1 bru
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node3.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node27.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node82.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node175.jsonld
+data found 25
+PROGRESS 0.001344688480502017
+CUSTOMLDFETCHLOADED
+2 z
+requesting id http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node5.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/1/node5.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node56.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/1/node56.jsonld
+data found 25
+2 ze
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node5.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node400.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/1/node400.jsonld
+data found 25
+2 zel
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node5.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node400.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1903.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/2/node1903.jsonld
+data found 19
+PROGRESS 0.0017929179740026895
+2 b
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node3.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/1/node3.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node18.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/1/node18.jsonld
+data found 25
+2 br
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node3.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node27.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/1/node27.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node82.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/1/node82.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node175.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/1/node175.jsonld
+data found 25
+PROGRESS 0.0022411474675033617
+2 a
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node22.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/1/node22.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node64.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/1/node64.jsonld
+data found 25
+2 an
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node22.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node164.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/1/node164.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1320.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/2/node1320.jsonld
+data found 25
+2 ant
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node22.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node164.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1809.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/2/node1809.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3075.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/4/node3075.jsonld
+data found 25
+2 antw
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node22.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node164.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/2/node1809.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/4/node3075.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3201.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/4/node3201.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/5/node4699.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/5/node4699.jsonld
+data found 21
+2 antwe
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node22.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node164.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/2/node1809.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/4/node3075.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/4/node3201.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/5/node4699.jsonld
+data found 21
+2 antwer
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node22.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node164.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/2/node1809.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/4/node3075.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/4/node3201.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/5/node4699.jsonld
+data found 21
+2 antwerp
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node22.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node164.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/2/node1809.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/4/node3075.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/4/node3201.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/5/node4699.jsonld
+data found 21
+2 antwerpe
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node22.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node164.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/2/node1809.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/4/node3075.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/4/node3201.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/5/node4699.jsonld
+data found 0
+2 antwerpen
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node22.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node164.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/2/node1809.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/4/node3075.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/4/node3201.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/5/node4699.jsonld
+data found 0
+PROGRESS 0.002689376961004034
+CUSTOMLDFETCHLOADED
+3 B
+requesting id http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node3.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/1/node3.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node18.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/1/node18.jsonld
+data found 9
+3 Bf
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node3.jsonld
+data found 1
+PROGRESS 0.0031376064545047063
+3 Br
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node3.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node27.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/1/node27.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node82.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/1/node82.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node175.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/1/node175.jsonld
+data found 25
+3 Bru
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node3.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node27.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node82.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node175.jsonld
+data found 25
+3 Brus
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node3.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node27.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node82.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node856.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/1/node856.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1727.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/2/node1727.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1986.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/2/node1986.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1989.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/2/node1989.jsonld
+data found 2
+3 Bruss
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node3.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node27.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node82.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node856.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/2/node1727.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/2/node1986.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/2/node1989.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1996.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/2/node1996.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2987.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/3/node2987.jsonld
+data found 25
+3 Brusse
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node3.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node27.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node82.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node856.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/2/node1727.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/2/node1986.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/2/node1989.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/2/node1996.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/3/node2987.jsonld
+data found 25
+PROGRESS 0.003585835948005379
+3 z
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node5.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/1/node5.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node56.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/1/node56.jsonld
+data found 25
+3 zo
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node5.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node56.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node441.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/1/node441.jsonld
+data found 25
+3 zot
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node5.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node56.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3097.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/4/node3097.jsonld
+data found 13
+3 zott
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node5.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node56.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/4/node3097.jsonld
+data found 11
+3 zotte
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node5.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node56.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/4/node3097.jsonld
+data found 11
+3 zotteg
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node5.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node56.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/4/node3097.jsonld
+data found 11
+3 zottege
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node5.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node56.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/4/node3097.jsonld
+data found 11
+3 zottegem
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node5.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node56.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/4/node3097.jsonld
+data found 11
+PROGRESS 0.004034065441506051
+3 b
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node3.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node18.jsonld
+data found 25
+3 br
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node3.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node27.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node82.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node175.jsonld
+data found 25
+3 bru
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node3.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node27.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node82.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node175.jsonld
+data found 25
+3 brus
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node3.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node27.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node82.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node856.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/2/node1727.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/2/node1986.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/2/node1989.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/2/node1996.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/3/node2987.jsonld
+data found 25
+3 bruss
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node3.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node27.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node82.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node856.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/2/node1727.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/2/node1986.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/2/node1989.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/2/node1996.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/3/node2987.jsonld
+data found 25
+3 brusse
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node3.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node27.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node82.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node856.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/2/node1727.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/2/node1986.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/2/node1989.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/2/node1996.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/3/node2987.jsonld
+data found 25
+3 brussel
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node3.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node27.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node82.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node856.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/2/node1727.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/2/node1986.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/2/node1989.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/2/node1996.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/3/node2987.jsonld
+data found 25
+3 brussels
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node3.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node27.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node82.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node856.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/2/node1727.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/2/node1986.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/2/node1989.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/2/node1996.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/3/node2987.jsonld
+data found 25
+PROGRESS 0.0044822949350067235
+CUSTOMLDFETCHLOADED
+4 m
+requesting id http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node11.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/1/node11.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node23.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/1/node23.jsonld
+data found 25
+4 mo
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node11.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node23.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node78.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/1/node78.jsonld
+data found 25
+4 mon
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node11.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node23.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1290.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/2/node1290.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2437.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/3/node2437.jsonld
+data found 25
+4 mont
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node11.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node23.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/2/node1290.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/3/node2437.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3217.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/4/node3217.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3246.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/4/node3246.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3359.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/4/node3359.jsonld
+data found 25
+PROGRESS 0.004930524428507396
+4 o
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node19.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/1/node19.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node45.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/1/node45.jsonld
+data found 25
+4 ot
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node19.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node670.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/1/node670.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2965.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/3/node2965.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3113.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/4/node3113.jsonld
+data found 25
+4 ott
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node19.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node670.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/3/node2965.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/4/node3113.jsonld
+data found 25
+4 otti
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node19.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node670.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/3/node2965.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3630.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/4/node3630.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3631.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/4/node3631.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3632.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/4/node3632.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3633.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/4/node3633.jsonld
+data found 12
+4 ottig
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node19.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node670.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/3/node2965.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/4/node3630.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/4/node3631.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/4/node3632.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/4/node3633.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3634.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/4/node3634.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3635.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/4/node3635.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3636.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/4/node3636.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3637.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/4/node3637.jsonld
+data found 12
+4 ottign
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node19.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node670.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/3/node2965.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/4/node3630.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/4/node3631.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/4/node3632.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/4/node3633.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/4/node3634.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/4/node3635.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/4/node3636.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/4/node3637.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3638.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/4/node3638.jsonld
+data found 25
+4 ottigni
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node19.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node670.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/3/node2965.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/4/node3630.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/4/node3631.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/4/node3632.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/4/node3633.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/4/node3634.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/4/node3635.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/4/node3636.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/4/node3637.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/4/node3638.jsonld
+data found 25
+4 ottignie
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node19.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node670.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/3/node2965.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/4/node3630.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/4/node3631.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/4/node3632.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/4/node3633.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/4/node3634.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/4/node3635.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/4/node3636.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/4/node3637.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/4/node3638.jsonld
+data found 25
+PROGRESS 0.005378753922008068
+CUSTOMLDFETCHLOADED
+5 p
+requesting id http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node9.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/1/node9.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node30.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/1/node30.jsonld
+data found 25
+5 pa
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node9.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node43.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/1/node43.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node92.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/1/node92.jsonld
+data found 25
+5 pak
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node9.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node43.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3182.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/4/node3182.jsonld
+data found 2
+5 paku
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node9.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node43.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/4/node3182.jsonld
+data found 0
+5 pakur
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node9.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node43.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/4/node3182.jsonld
+data found 0
+PROGRESS 0.00582698341550874
+5 h
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node7.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/1/node7.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node28.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/1/node28.jsonld
+data found 25
+5 ho
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node7.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node46.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/1/node46.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node98.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/1/node98.jsonld
+data found 25
+5 how
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node7.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node46.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3199.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/4/node3199.jsonld
+data found 3
+5 howr
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node7.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node46.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/4/node3199.jsonld
+data found 0
+5 howra
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node7.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node46.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/4/node3199.jsonld
+data found 0
+5 howrah
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node7.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node46.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/4/node3199.jsonld
+data found 0
+PROGRESS 0.0062752129090094125
+CUSTOMLDFETCHLOADED
+6 d
+requesting id http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node13.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/1/node13.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node25.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/1/node25.jsonld
+data found 25
+6 da
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node13.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node50.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/1/node50.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node171.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/1/node171.jsonld
+data found 25
+6 dav
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node13.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node50.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2547.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/3/node2547.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3266.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/4/node3266.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/7/node6397.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/7/node6397.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/7/node6398.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/7/node6398.jsonld
+data found 12
+PROGRESS 0.006723442402510085
+6 j
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node297.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/1/node297.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node569.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/1/node569.jsonld
+data found 25
+6 ja
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node297.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node569.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node912.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/1/node912.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/2/node1233.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/2/node1233.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2073.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/3/node2073.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/3/node2074.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/3/node2074.jsonld
+data found 25
+6 jal
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node297.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node569.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/4/node3263.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/4/node3263.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/6/node5172.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/6/node5172.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/6/node5173.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/6/node5173.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/6/node5174.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/6/node5174.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/6/node5175.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/6/node5175.jsonld
+data found 0
+6 jala
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node297.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node569.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/4/node3263.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/6/node5172.jsonld
+data found 0
+PROGRESS 0.007171671896010758
+6 jalandhar
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node297.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node569.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/4/node3263.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/6/node5172.jsonld
+data found 0
+PROGRESS 0.00761990138951143
+6 jalandhar+c
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node297.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node569.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/4/node3263.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/6/node5172.jsonld
+data found 0
+6 jalandhar+ci
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node297.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node569.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/4/node3263.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/6/node5172.jsonld
+data found 0
+6 jalandhar+cit
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node297.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node569.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/4/node3263.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/6/node5172.jsonld
+data found 0
+6 jalandhar+city
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node297.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node569.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/4/node3263.jsonld
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/6/node5172.jsonld
+data found 0
+PROGRESS 0.008068130883012102
+6 r
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node2.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/1/node2.jsonld
+requesting id http://193.190.127.164/stopsprefixtest/25/1/node44.jsonld
+CACHE MISS http://193.190.127.164/stopsprefixtest/25/1/node44.jsonld
+data found 25
+6 rc
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node2.jsonld
+data found 0
+6 rcf
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/node0.jsonld#Collection
+CACHE HIT http://193.190.127.164/stopsprefixtest/25/1/node2.jsonld

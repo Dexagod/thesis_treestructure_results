@@ -1,0 +1,432 @@
+
+{
+  "header": {
+    "reportVersion": 1,
+    "event": "Allocation failed - JavaScript heap out of memory",
+    "trigger": "FatalError",
+    "filename": "report.20200119.150135.169552.0.001.json",
+    "dumpEventTime": "2020-01-19T15:01:35Z",
+    "dumpEventTimeStamp": "1579442495405",
+    "processId": 169552,
+    "cwd": "/home/dexa/Ugent/thesis/results/newclient",
+    "commandLine": [
+      "node",
+      "--max-old-space-size=10000",
+      "newclient.js"
+    ],
+    "nodejsVersion": "v13.3.0",
+    "glibcVersionRuntime": "2.30",
+    "glibcVersionCompiler": "2.30",
+    "wordSize": 64,
+    "arch": "x64",
+    "platform": "linux",
+    "componentVersions": {
+      "node": "13.3.0",
+      "v8": "7.9.317.25-node.23",
+      "uv": "1.33.1",
+      "zlib": "1.2.11",
+      "brotli": "1.0.7",
+      "ares": "1.15.0",
+      "modules": "79",
+      "nghttp2": "1.39.2",
+      "napi": "5",
+      "llhttp": "2.0.1",
+      "openssl": "1.1.1d",
+      "cldr": "36.0",
+      "icu": "65.1",
+      "tz": "2019c",
+      "unicode": "12.1"
+    },
+    "release": {
+      "name": "node",
+      "headersUrl": "https://nodejs.org/download/release/v13.3.0/node-v13.3.0-headers.tar.gz",
+      "sourceUrl": "https://nodejs.org/download/release/v13.3.0/node-v13.3.0.tar.gz"
+    },
+    "osName": "Linux",
+    "osRelease": "4.19.88-1-lts",
+    "osVersion": "#1 SMP Thu, 05 Dec 2019 12:30:39 +0000",
+    "osMachine": "x86_64",
+    "cpus": [
+      {
+        "model": "Intel(R) Core(TM) i7-4800MQ CPU @ 2.70GHz",
+        "speed": 2999,
+        "user": 141435900,
+        "nice": 46400,
+        "sys": 33281800,
+        "idle": 1296863700,
+        "irq": 13033000
+      },
+      {
+        "model": "Intel(R) Core(TM) i7-4800MQ CPU @ 2.70GHz",
+        "speed": 3194,
+        "user": 157874200,
+        "nice": 87800,
+        "sys": 32748800,
+        "idle": 182277700,
+        "irq": 1639300
+      },
+      {
+        "model": "Intel(R) Core(TM) i7-4800MQ CPU @ 2.70GHz",
+        "speed": 3028,
+        "user": 159436800,
+        "nice": 86100,
+        "sys": 32437600,
+        "idle": 182761500,
+        "irq": 2036500
+      },
+      {
+        "model": "Intel(R) Core(TM) i7-4800MQ CPU @ 2.70GHz",
+        "speed": 3004,
+        "user": 155654900,
+        "nice": 79200,
+        "sys": 32506200,
+        "idle": 183401400,
+        "irq": 2964900
+      },
+      {
+        "model": "Intel(R) Core(TM) i7-4800MQ CPU @ 2.70GHz",
+        "speed": 2785,
+        "user": 156635900,
+        "nice": 83400,
+        "sys": 32645700,
+        "idle": 183767000,
+        "irq": 1561000
+      },
+      {
+        "model": "Intel(R) Core(TM) i7-4800MQ CPU @ 2.70GHz",
+        "speed": 2932,
+        "user": 152190700,
+        "nice": 51300,
+        "sys": 31470600,
+        "idle": 184975700,
+        "irq": 2364200
+      },
+      {
+        "model": "Intel(R) Core(TM) i7-4800MQ CPU @ 2.70GHz",
+        "speed": 3238,
+        "user": 149501300,
+        "nice": 53500,
+        "sys": 31182400,
+        "idle": 185458800,
+        "irq": 1704500
+      },
+      {
+        "model": "Intel(R) Core(TM) i7-4800MQ CPU @ 2.70GHz",
+        "speed": 3250,
+        "user": 152826900,
+        "nice": 84300,
+        "sys": 31229900,
+        "idle": 185335900,
+        "irq": 1714000
+      }
+    ],
+    "networkInterfaces": [
+      {
+        "name": "lo",
+        "internal": true,
+        "mac": "00:00:00:00:00:00",
+        "address": "127.0.0.1",
+        "netmask": "255.0.0.0",
+        "family": "IPv4"
+      },
+      {
+        "name": "wlp3s0",
+        "internal": false,
+        "mac": "b8:ee:65:58:02:ff",
+        "address": "192.168.1.58",
+        "netmask": "255.255.255.0",
+        "family": "IPv4"
+      },
+      {
+        "name": "lo",
+        "internal": true,
+        "mac": "00:00:00:00:00:00",
+        "address": "::1",
+        "netmask": "ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff",
+        "family": "IPv6",
+        "scopeid": 0
+      },
+      {
+        "name": "wlp3s0",
+        "internal": false,
+        "mac": "b8:ee:65:58:02:ff",
+        "address": "2a02:a03f:ea6e:c300:1cb8:5afc:acde:c24b",
+        "netmask": "ffff:ffff:ffff:ffff::",
+        "family": "IPv6",
+        "scopeid": 0
+      },
+      {
+        "name": "wlp3s0",
+        "internal": false,
+        "mac": "b8:ee:65:58:02:ff",
+        "address": "fe80::7418:1162:855b:e8f",
+        "netmask": "ffff:ffff:ffff:ffff::",
+        "family": "IPv6",
+        "scopeid": 3
+      }
+    ],
+    "host": "dexa"
+  },
+  "javascriptStack": {
+    "message": "No stack.",
+    "stack": [
+      "Unavailable."
+    ]
+  },
+  "nativeStack": [
+    {
+      "pc": "0x0000556836925d2a",
+      "symbol": "report::TriggerNodeReport(v8::Isolate*, node::Environment*, char const*, char const*, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, v8::Local<v8::String>) [node]"
+    },
+    {
+      "pc": "0x00005568367e89e8",
+      "symbol": "node::OnFatalError(char const*, char const*) [node]"
+    },
+    {
+      "pc": "0x0000556836958e92",
+      "symbol": "v8::Utils::ReportOOMFailure(v8::internal::Isolate*, char const*, bool) [node]"
+    },
+    {
+      "pc": "0x00005568369590f8",
+      "symbol": "v8::internal::V8::FatalProcessOutOfMemory(v8::internal::Isolate*, char const*, bool) [node]"
+    },
+    {
+      "pc": "0x0000556836ae3596",
+      "symbol": " [node]"
+    },
+    {
+      "pc": "0x0000556836ae36d9",
+      "symbol": " [node]"
+    },
+    {
+      "pc": "0x0000556836af60b2",
+      "symbol": "v8::internal::Heap::PerformGarbageCollection(v8::internal::GarbageCollector, v8::GCCallbackFlags) [node]"
+    },
+    {
+      "pc": "0x0000556836af6de8",
+      "symbol": "v8::internal::Heap::CollectGarbage(v8::internal::AllocationSpace, v8::internal::GarbageCollectionReason, v8::GCCallbackFlags) [node]"
+    },
+    {
+      "pc": "0x0000556836af92cc",
+      "symbol": "v8::internal::Heap::AllocateRawWithLightRetrySlowPath(int, v8::internal::AllocationType, v8::internal::AllocationOrigin, v8::internal::AllocationAlignment) [node]"
+    },
+    {
+      "pc": "0x0000556836af9334",
+      "symbol": "v8::internal::Heap::AllocateRawWithRetryOrFailSlowPath(int, v8::internal::AllocationType, v8::internal::AllocationOrigin, v8::internal::AllocationAlignment) [node]"
+    },
+    {
+      "pc": "0x0000556836abe59b",
+      "symbol": "v8::internal::Factory::NewFillerObject(int, bool, v8::internal::AllocationType, v8::internal::AllocationOrigin) [node]"
+    },
+    {
+      "pc": "0x0000556836def3c0",
+      "symbol": "v8::internal::Runtime_AllocateInYoungGeneration(int, unsigned long*, v8::internal::Isolate*) [node]"
+    },
+    {
+      "pc": "0x0000556837148a59",
+      "symbol": " [node]"
+    }
+  ],
+  "javascriptHeap": {
+    "totalMemory": 10510077952,
+    "totalCommittedMemory": 10508706368,
+    "usedMemory": 9911590928,
+    "availableMemory": 104497232,
+    "memoryLimit": 10536091648,
+    "heapSpaces": {
+      "read_only_space": {
+        "memorySize": 262144,
+        "committedMemory": 33328,
+        "capacity": 33040,
+        "used": 33040,
+        "available": 0
+      },
+      "new_space": {
+        "memorySize": 33554432,
+        "committedMemory": 33291976,
+        "capacity": 16758784,
+        "used": 1208928,
+        "available": 15549856
+      },
+      "old_space": {
+        "memorySize": 10428223488,
+        "committedMemory": 10427370728,
+        "capacity": 9911777624,
+        "used": 9865602728,
+        "available": 46174896
+      },
+      "code_space": {
+        "memorySize": 954368,
+        "committedMemory": 927072,
+        "capacity": 495168,
+        "used": 495168,
+        "available": 0
+      },
+      "map_space": {
+        "memorySize": 3411968,
+        "committedMemory": 3411712,
+        "capacity": 717120,
+        "used": 717120,
+        "available": 0
+      },
+      "large_object_space": {
+        "memorySize": 43622400,
+        "committedMemory": 43622400,
+        "capacity": 43531160,
+        "used": 43531160,
+        "available": 0
+      },
+      "code_large_object_space": {
+        "memorySize": 49152,
+        "committedMemory": 49152,
+        "capacity": 2784,
+        "used": 2784,
+        "available": 0
+      },
+      "new_large_object_space": {
+        "memorySize": 0,
+        "committedMemory": 0,
+        "capacity": 16758784,
+        "used": 0,
+        "available": 16758784
+      }
+    }
+  },
+  "resourceUsage": {
+    "userCpuSeconds": 2501.99,
+    "kernelCpuSeconds": 445.766,
+    "cpuConsumptionPercent": 92.2905,
+    "maxRss": 10867978240,
+    "pageFaults": {
+      "IORequired": 20,
+      "IONotRequired": 59848698
+    },
+    "fsActivity": {
+      "reads": 7728,
+      "writes": 8648
+    }
+  },
+  "uvthreadResourceUsage": {
+    "userCpuSeconds": 1499.88,
+    "kernelCpuSeconds": 412.024,
+    "cpuConsumptionPercent": 59.8591,
+    "fsActivity": {
+      "reads": 7728,
+      "writes": 8648
+    }
+  },
+  "libuv": [
+  ],
+  "environmentVariables": {
+    "SHELL": "/bin/bash",
+    "WINDOWID": "35651587",
+    "COLORTERM": "truecolor",
+    "I3SOCK": "/run/user/1000/i3/ipc-socket.634",
+    "GRADLE_HOME": "/usr/share/java/gradle",
+    "GTK_MODULES": "canberra-gtk-module",
+    "XDG_SEAT": "seat0",
+    "PWD": "/home/dexa/Ugent/thesis/results/newclient",
+    "LOGNAME": "dexa",
+    "XDG_SESSION_TYPE": "tty",
+    "MANPATH": "/home/dexa/perl5/man:/usr/local/man:/usr/local/share/man:/usr/share/man:/usr/lib/jvm/default/man:/home/dexa/.npm-packages/share/man:/home/dexa/.npm-packages/share/man",
+    "XAUTHORITY": "/home/dexa/.Xauthority",
+    "ftp_proxy": "",
+    "WINDOWPATH": "1",
+    "VIRTUALENVWRAPPER_SCRIPT": "/usr/bin/virtualenvwrapper.sh",
+    "HOME": "/home/dexa",
+    "LANG": "en_US.UTF-8",
+    "HADOOP_PID_DIR": "/tmp/hadoop/run",
+    "R_LIBS": "~/R/lib",
+    "VTE_VERSION": "5602",
+    "VIRTUALENVWRAPPER_WORKON_CD": "1",
+    "https_proxy": "",
+    "PERL5LIB": "/home/dexa/perl5/lib/perl5:/home/dexa/perl5/lib/perl5",
+    "INVOCATION_ID": "7a775ad554414ad7bbf88e9deb38f42c",
+    "socks_proxy": "",
+    "HADOOP_SLAVES": "/etc/hadoop/slaves",
+    "WORKON_HOME": "/home/dexa/.virtualenvs",
+    "XDG_SESSION_CLASS": "user",
+    "TERM": "xterm-termite",
+    "HADOOP_CONF_DIR": "/etc/hadoop",
+    "PERL_MB_OPT": "--install_base \"/home/dexa/perl5\"",
+    "USER": "dexa",
+    "PERL_MM_OPT": "INSTALL_BASE=/home/dexa/perl5",
+    "VIRTUALENVWRAPPER_PROJECT_FILENAME": ".project",
+    "DISPLAY": ":0",
+    "SHLVL": "3",
+    "XDG_VTNR": "1",
+    "XDG_SESSION_ID": "1",
+    "http_proxy": "",
+    "XDG_RUNTIME_DIR": "/run/user/1000",
+    "JOURNAL_STREAM": "9:23973",
+    "XDG_DATA_DIRS": "/usr/local/share:/usr/share:/var/lib/snapd/desktop",
+    "PERL_LOCAL_LIB_ROOT": "/home/dexa/perl5:/home/dexa/perl5",
+    "PATH": "/home/dexa/perl5/bin:/home/dexa/perl5/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/var/lib/snapd/snap/bin:/home/dexa/.local/bin:/home/dexa/.gem/ruby/2.6.0/bin:/home/dexa/.npm-packages/bin:/home/dexa/.local/bin:/home/dexa/.gem/ruby/2.6.0/bin:/home/dexa/.npm-packages/bin",
+    "VIRTUALENVWRAPPER_HOOK_DIR": "/home/dexa/.virtualenvs",
+    "DBUS_SESSION_BUS_ADDRESS": "unix:path=/run/user/1000/bus",
+    "MAIL": "/var/spool/mail/dexa",
+    "HADOOP_LOG_DIR": "/tmp/hadoop/log",
+    "OLDPWD": "/home/dexa",
+    "_": "/usr/bin/node"
+  },
+  "userLimits": {
+    "core_file_size_blocks": {
+      "soft": "unlimited",
+      "hard": "unlimited"
+    },
+    "data_seg_size_kbytes": {
+      "soft": "unlimited",
+      "hard": "unlimited"
+    },
+    "file_size_blocks": {
+      "soft": "unlimited",
+      "hard": "unlimited"
+    },
+    "max_locked_memory_bytes": {
+      "soft": 65536,
+      "hard": 65536
+    },
+    "max_memory_size_kbytes": {
+      "soft": "unlimited",
+      "hard": "unlimited"
+    },
+    "open_files": {
+      "soft": 524288,
+      "hard": 524288
+    },
+    "stack_size_bytes": {
+      "soft": 8388608,
+      "hard": "unlimited"
+    },
+    "cpu_time_seconds": {
+      "soft": "unlimited",
+      "hard": "unlimited"
+    },
+    "max_user_processes": {
+      "soft": 63416,
+      "hard": 63416
+    },
+    "virtual_memory_kbytes": {
+      "soft": "unlimited",
+      "hard": "unlimited"
+    }
+  },
+  "sharedObjects": [
+    "linux-vdso.so.1",
+    "/usr/lib/libz.so.1",
+    "/usr/lib/libcares.so.2",
+    "/usr/lib/libnghttp2.so.14",
+    "/usr/lib/libcrypto.so.1.1",
+    "/usr/lib/libssl.so.1.1",
+    "/usr/lib/libicui18n.so.65",
+    "/usr/lib/libicuuc.so.65",
+    "/usr/lib/libdl.so.2",
+    "/usr/lib/libstdc++.so.6",
+    "/usr/lib/libm.so.6",
+    "/usr/lib/libgcc_s.so.1",
+    "/usr/lib/libpthread.so.0",
+    "/usr/lib/libc.so.6",
+    "/usr/lib/libicudata.so.65",
+    "/lib64/ld-linux-x86-64.so.2"
+  ]
+}

@@ -1,0 +1,33 @@
+[
+  {
+    "userid": 1,
+    "requests": [
+      "o",
+      "oo",
+      "oos",
+      "ooste",
+      "oosten",
+      "oostende"
+    ],
+    "target": "Oostende"
+  },
+  {
+    "userid": 1,
+    "requests": [
+      "g",
+      "gen",
+      "gent"
+    ],
+    "target": "gentwegel"
+  },
+  {
+    "userid": 2,
+    "requests": [
+      "ca",
+      "can",
+      "canz",
+      "canzon"
+    ],
+    "target": "canzonettastraat"
+  }
+]

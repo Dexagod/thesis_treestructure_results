@@ -1,0 +1,58 @@
+[
+  {
+    "userid": 1,
+    "requests": [
+      "Fod"
+    ],
+    "target": "Fodderiestraat"
+  },
+  {
+    "userid": 1,
+    "requests": [
+      "gen",
+      "gent"
+    ],
+    "target": "gentdam"
+  },
+  {
+    "userid": 2,
+    "requests": [
+      "ca",
+      "can"
+    ],
+    "target": "cany-barvillestraat"
+  },
+  {
+    "userid": 2,
+    "requests": [
+      "c"
+    ],
+    "target": "crête du haut bois"
+  },
+  {
+    "userid": 2,
+    "requests": [
+      "cant",
+      "cante"
+    ],
+    "target": "cantempréstraat"
+  },
+  {
+    "userid": 2,
+    "requests": [
+      "m",
+      "me",
+      "mei",
+      "meis",
+      "meise"
+    ],
+    "target": "meiselaan"
+  },
+  {
+    "userid": 2,
+    "requests": [
+      "r"
+    ],
+    "target": "rémont"
+  }
+]

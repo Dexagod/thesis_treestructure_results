@@ -1,0 +1,1047 @@
+[
+  {
+    "userid": 1,
+    "requests": [
+      "Fod"
+    ],
+    "target": "Fodderiestraat"
+  },
+  {
+    "userid": 1,
+    "requests": [
+      "gen",
+      "gent"
+    ],
+    "target": "gentdam"
+  },
+  {
+    "userid": 2,
+    "requests": [
+      "ca",
+      "can"
+    ],
+    "target": "cany-barvillestraat"
+  },
+  {
+    "userid": 2,
+    "requests": [
+      "c"
+    ],
+    "target": "crête du haut bois"
+  },
+  {
+    "userid": 2,
+    "requests": [
+      "cant",
+      "cante"
+    ],
+    "target": "cantempréstraat"
+  },
+  {
+    "userid": 2,
+    "requests": [
+      "m",
+      "me",
+      "mei",
+      "meis",
+      "meise"
+    ],
+    "target": "meiselaan"
+  },
+  {
+    "userid": 2,
+    "requests": [
+      "r"
+    ],
+    "target": "rémont"
+  },
+  {
+    "userid": 2,
+    "requests": [
+      "rue"
+    ],
+    "target": "ruejules demolder"
+  },
+  {
+    "userid": 2,
+    "requests": [
+      "ru",
+      "rue"
+    ],
+    "target": "rue-terne-des-genêts"
+  },
+  {
+    "userid": 2,
+    "requests": [
+      "rue d",
+      "rue du"
+    ],
+    "target": "rue duhainaut"
+  },
+  {
+    "userid": 2,
+    "requests": [
+      "rue du g",
+      "rue du go",
+      "rue du gou",
+      "rue du gouf",
+      "rue du gouff",
+      "rue du gouffr",
+      "rue du gouffre"
+    ],
+    "target": "rue du gouffre"
+  },
+  {
+    "userid": 2,
+    "requests": [
+      "z",
+      "za",
+      "zan",
+      "zand"
+    ],
+    "target": "zandschel"
+  },
+  {
+    "userid": 2,
+    "requests": [
+      "p"
+    ],
+    "target": "père fachépad"
+  },
+  {
+    "userid": 2,
+    "requests": [
+      "g",
+      "gr",
+      "gra",
+      "grav",
+      "grave",
+      "graven",
+      "gravens",
+      "gravenst"
+    ],
+    "target": "gravenstraat"
+  },
+  {
+    "userid": 2,
+    "requests": [
+      "z",
+      "za",
+      "zan",
+      "zand"
+    ],
+    "target": "zandmannetjesweg"
+  },
+  {
+    "userid": 2,
+    "requests": [
+      "zan"
+    ],
+    "target": "zannekinstraat"
+  },
+  {
+    "userid": 2,
+    "requests": [
+      "za"
+    ],
+    "target": "zamenhoflaan"
+  },
+  {
+    "userid": 2,
+    "requests": [
+      "z"
+    ],
+    "target": "zilderij"
+  },
+  {
+    "userid": 2,
+    "requests": [
+      "2",
+      "25"
+    ],
+    "target": "25ste-linielaan"
+  },
+  {
+    "userid": 2,
+    "requests": [
+      "2",
+      "25"
+    ],
+    "target": "25ste-linielaan"
+  },
+  {
+    "userid": 2,
+    "requests": [
+      "z",
+      "za",
+      "zan",
+      "zand"
+    ],
+    "target": "zandkeverssquare"
+  },
+  {
+    "userid": 2,
+    "requests": [
+      "a",
+      "ar",
+      "arl",
+      "arlo",
+      "arlon"
+    ],
+    "target": "arloncourt"
+  },
+  {
+    "userid": 3,
+    "requests": [
+      "An"
+    ],
+    "target": "Anemonenweg"
+  },
+  {
+    "userid": 3,
+    "requests": [
+      "A"
+    ],
+    "target": "Abc-straat"
+  },
+  {
+    "userid": 3,
+    "requests": [
+      "Ant",
+      "Antw",
+      "Antwe",
+      "Antwer",
+      "Antwerp",
+      "Antwerpe",
+      "Antwerpen"
+    ],
+    "target": "Antwerpenplein"
+  },
+  {
+    "userid": 4,
+    "requests": [
+      "C",
+      "Ca",
+      "Can",
+      "Cant",
+      "Cante"
+    ],
+    "target": "Cantempréstraat"
+  },
+  {
+    "userid": 5,
+    "requests": [
+      "G",
+      "Ge",
+      "Gen",
+      "Gent"
+    ],
+    "target": "Gentiaanlaan"
+  },
+  {
+    "userid": 5,
+    "requests": [
+      "B",
+      "Br",
+      "Bru"
+    ],
+    "target": "Bruchstrasse"
+  },
+  {
+    "userid": 6,
+    "requests": [
+      "W"
+    ],
+    "target": "Wulfwinkelstraat"
+  },
+  {
+    "userid": 7,
+    "requests": [
+      "Water"
+    ],
+    "target": "Wateringen"
+  },
+  {
+    "userid": 7,
+    "requests": [
+      "Waterstraa",
+      "Waterstraat"
+    ],
+    "target": "Waterstraatje"
+  },
+  {
+    "userid": 7,
+    "requests": [
+      "Gro",
+      "Groe"
+    ],
+    "target": "Groeselenbergstraat"
+  },
+  {
+    "userid": 7,
+    "requests": [
+      "Groenpl"
+    ],
+    "target": "Groenplaats"
+  },
+  {
+    "userid": 8,
+    "requests": [
+      "luchter"
+    ],
+    "target": "luchterenhof"
+  },
+  {
+    "userid": 8,
+    "requests": [
+      "Luchterenkerkweg"
+    ],
+    "target": "Luchterenkerkweg"
+  },
+  {
+    "userid": 9,
+    "requests": [
+      "G",
+      "Ge",
+      "Gee",
+      "Geel",
+      "Geels",
+      "Geelse",
+      "Geelseb",
+      "Geelseba",
+      "Geelsebaa",
+      "Geelsebaan"
+    ],
+    "target": "Geelsebaan"
+  },
+  {
+    "userid": 10,
+    "requests": [
+      "spa"
+    ],
+    "target": "spagniestraat"
+  },
+  {
+    "userid": 10,
+    "requests": [
+      "sp"
+    ],
+    "target": "splenterbeekstraat"
+  },
+  {
+    "userid": 10,
+    "requests": [
+      "s"
+    ],
+    "target": "saxbylaan"
+  },
+  {
+    "userid": 10,
+    "requests": [
+      "spar",
+      "sparr",
+      "sparre",
+      "sparres",
+      "sparrest",
+      "sparrestr",
+      "sparrestra",
+      "sparrestraa",
+      "sparrestraat"
+    ],
+    "target": "sparrestraat"
+  },
+  {
+    "userid": 10,
+    "requests": [
+      "Sparrestraat"
+    ],
+    "target": "Sparrestraat"
+  },
+  {
+    "userid": 10,
+    "requests": [
+      "d"
+    ],
+    "target": "diktestraat"
+  },
+  {
+    "userid": 10,
+    "requests": [
+      "b",
+      "be",
+      "bec"
+    ],
+    "target": "beckhofstraat"
+  },
+  {
+    "userid": 11,
+    "requests": [
+      "c",
+      "co",
+      "com",
+      "comm",
+      "commi",
+      "commis",
+      "commiss"
+    ],
+    "target": "commissaris neyskenslaan"
+  },
+  {
+    "userid": 12,
+    "requests": [
+      "cante"
+    ],
+    "target": "cantecleerstraat"
+  },
+  {
+    "userid": 12,
+    "requests": [
+      "can"
+    ],
+    "target": "canonstraat"
+  },
+  {
+    "userid": 12,
+    "requests": [
+      "ca"
+    ],
+    "target": "caesar gezellestraat"
+  },
+  {
+    "userid": 12,
+    "requests": [
+      "cant"
+    ],
+    "target": "cantincrodelaan"
+  },
+  {
+    "userid": 12,
+    "requests": [
+      "c"
+    ],
+    "target": "cnoesselhoek"
+  },
+  {
+    "userid": 12,
+    "requests": [
+      "a",
+      "an"
+    ],
+    "target": "anglo"
+  },
+  {
+    "userid": 12,
+    "requests": [
+      "ber",
+      "berc",
+      "berch"
+    ],
+    "target": "berchemhofstraat"
+  },
+  {
+    "userid": 12,
+    "requests": [
+      "berchem"
+    ],
+    "target": "berchembrug"
+  },
+  {
+    "userid": 12,
+    "requests": [
+      "berche"
+    ],
+    "target": "berchemhofstraat"
+  },
+  {
+    "userid": 12,
+    "requests": [
+      "be"
+    ],
+    "target": "behaegelstraat"
+  },
+  {
+    "userid": 12,
+    "requests": [
+      "berc",
+      "berch",
+      "berche"
+    ],
+    "target": "berchemhofstraat"
+  },
+  {
+    "userid": 12,
+    "requests": [
+      "ber"
+    ],
+    "target": "bersegembaan"
+  },
+  {
+    "userid": 12,
+    "requests": [
+      "be"
+    ],
+    "target": "benoitstraat (peter)"
+  },
+  {
+    "userid": 12,
+    "requests": [
+      "ant"
+    ],
+    "target": "antverpialaan"
+  },
+  {
+    "userid": 12,
+    "requests": [
+      "an"
+    ],
+    "target": "anglo"
+  },
+  {
+    "userid": 12,
+    "requests": [
+      "a"
+    ],
+    "target": "a.brouwerstraat"
+  },
+  {
+    "userid": 12,
+    "requests": [
+      "ant",
+      "antw"
+    ],
+    "target": "antwerpenplein"
+  },
+  {
+    "userid": 12,
+    "requests": [
+      "antwer",
+      "antwerp"
+    ],
+    "target": "antwerpsebaan"
+  },
+  {
+    "userid": 12,
+    "requests": [
+      "antwe"
+    ],
+    "target": "antwerpselaan"
+  },
+  {
+    "userid": 12,
+    "requests": [
+      "b"
+    ],
+    "target": "bwès des leus"
+  },
+  {
+    "userid": 12,
+    "requests": [
+      "antwerp"
+    ],
+    "target": "antwerpseweg"
+  },
+  {
+    "userid": 12,
+    "requests": [
+      "b"
+    ],
+    "target": "bwès des leus"
+  },
+  {
+    "userid": 12,
+    "requests": [
+      "antw",
+      "antwe"
+    ],
+    "target": "antwerpenstraat"
+  },
+  {
+    "userid": 12,
+    "requests": [
+      "ant"
+    ],
+    "target": "antverpiastraat"
+  },
+  {
+    "userid": 12,
+    "requests": [
+      "an"
+    ],
+    "target": "ancien-chemin-d'halma"
+  },
+  {
+    "userid": 12,
+    "requests": [
+      "a"
+    ],
+    "target": "a-bakès"
+  },
+  {
+    "userid": 12,
+    "requests": [
+      "antwer"
+    ],
+    "target": "antwerpenlei"
+  },
+  {
+    "userid": 12,
+    "requests": [
+      "a",
+      "an",
+      "ant",
+      "antw"
+    ],
+    "target": "antwerpsestraat"
+  },
+  {
+    "userid": 12,
+    "requests": [
+      "antwer"
+    ],
+    "target": "antwerpse heerweg"
+  },
+  {
+    "userid": 12,
+    "requests": [
+      "antwe"
+    ],
+    "target": "antwerpseweg"
+  },
+  {
+    "userid": 12,
+    "requests": [
+      "antwerp"
+    ],
+    "target": "antwerpsebaan"
+  },
+  {
+    "userid": 2,
+    "requests": [
+      "q",
+      "qu",
+      "qua",
+      "quai"
+    ],
+    "target": "quai ferdinand courtois"
+  },
+  {
+    "userid": 2,
+    "requests": [
+      "quai m",
+      "quai ma",
+      "quai mat",
+      "quai mati",
+      "quai mativ",
+      "quai mativa"
+    ],
+    "target": "quai mativa"
+  },
+  {
+    "userid": 13,
+    "requests": [
+      "hove"
+    ],
+    "target": "hovenstraat"
+  },
+  {
+    "userid": 13,
+    "requests": [
+      "groene"
+    ],
+    "target": "groenedijkstraat"
+  },
+  {
+    "userid": 13,
+    "requests": [
+      "groenenborglei"
+    ],
+    "target": "groenenborglei"
+  },
+  {
+    "userid": 13,
+    "requests": [
+      "gr"
+    ],
+    "target": "groignestraat"
+  },
+  {
+    "userid": 13,
+    "requests": [
+      "groenenborglei"
+    ],
+    "target": "groenenborglei"
+  },
+  {
+    "userid": 13,
+    "requests": [
+      "museum"
+    ],
+    "target": "museumlaan"
+  },
+  {
+    "userid": 14,
+    "requests": [
+      "E",
+      "El"
+    ],
+    "target": "El rowe"
+  },
+  {
+    "userid": 14,
+    "requests": [
+      "Elf-"
+    ],
+    "target": "Elf-novemberlaan"
+  },
+  {
+    "userid": 14,
+    "requests": [
+      "Elf"
+    ],
+    "target": "Elfbunderweg"
+  },
+  {
+    "userid": 14,
+    "requests": [
+      "Elf-J",
+      "Elf-Ju",
+      "Elf-Jul",
+      "Elf-Juli",
+      "Elf-Julis",
+      "Elf-Julist",
+      "Elf-Julistr",
+      "Elf-Julistra",
+      "Elf-Julistraa"
+    ],
+    "target": "Elf-Julistraat"
+  },
+  {
+    "userid": 15,
+    "requests": [
+      "zand"
+    ],
+    "target": "zandblok"
+  },
+  {
+    "userid": 15,
+    "requests": [
+      "lille"
+    ],
+    "target": "lillerhoef"
+  },
+  {
+    "userid": 11,
+    "requests": [
+      "co"
+    ],
+    "target": "coclisart"
+  },
+  {
+    "userid": 11,
+    "requests": [
+      "c"
+    ],
+    "target": "censes"
+  },
+  {
+    "userid": 11,
+    "requests": [
+      "com",
+      "comm",
+      "commi",
+      "commis",
+      "commiss"
+    ],
+    "target": "commissaris neyskenslaan"
+  },
+  {
+    "userid": 16,
+    "requests": [
+      "C",
+      "Ca",
+      "Can",
+      "Cant",
+      "Cante"
+    ],
+    "target": "Cantempréstraat"
+  },
+  {
+    "userid": 16,
+    "requests": [
+      "C",
+      "Ca",
+      "Can",
+      "Cant",
+      "Cante"
+    ],
+    "target": "Cantelebaan"
+  },
+  {
+    "userid": 17,
+    "requests": [
+      "Elf"
+    ],
+    "target": "Elfgemeetwegel"
+  },
+  {
+    "userid": 17,
+    "requests": [
+      "E",
+      "El"
+    ],
+    "target": "Elshaag"
+  },
+  {
+    "userid": 17,
+    "requests": [
+      "Elf-",
+      "Elf-J",
+      "Elf-Ju",
+      "Elf-Jul",
+      "Elf-Juli",
+      "Elf-Julis",
+      "Elf-Julist",
+      "Elf-Julistr",
+      "Elf-Julistra",
+      "Elf-Julistraa",
+      "Elf-Julistraat"
+    ],
+    "target": "Elf-Julistraat"
+  },
+  {
+    "userid": 17,
+    "requests": [
+      "I",
+      "IC"
+    ],
+    "target": "IChtegemstraat"
+  },
+  {
+    "userid": 17,
+    "requests": [
+      "el"
+    ],
+    "target": "elnonestraat"
+  },
+  {
+    "userid": 17,
+    "requests": [
+      "e"
+    ],
+    "target": "e. anseelestraat"
+  },
+  {
+    "userid": 17,
+    "requests": [
+      "elf",
+      "elf-"
+    ],
+    "target": "elf-julilaan"
+  },
+  {
+    "userid": 17,
+    "requests": [
+      "i",
+      "ic"
+    ],
+    "target": "ichelgemstraat"
+  },
+  {
+    "userid": 16,
+    "requests": [
+      "par"
+    ],
+    "target": "parsivalstraat"
+  },
+  {
+    "userid": 16,
+    "requests": [
+      "pa"
+    ],
+    "target": "paolalaan"
+  },
+  {
+    "userid": 16,
+    "requests": [
+      "p"
+    ],
+    "target": "pafflard"
+  },
+  {
+    "userid": 16,
+    "requests": [
+      "parc"
+    ],
+    "target": "parc artisanal de harzé"
+  },
+  {
+    "userid": 16,
+    "requests": [
+      "parc d",
+      "parc d'",
+      "parc d'a"
+    ],
+    "target": "parc d'activités economiques"
+  },
+  {
+    "userid": 16,
+    "requests": [
+      "ca"
+    ],
+    "target": "capiauxlaan"
+  },
+  {
+    "userid": 16,
+    "requests": [
+      "c"
+    ],
+    "target": "césar snoecklaan"
+  },
+  {
+    "userid": 16,
+    "requests": [
+      "can",
+      "cant",
+      "cante"
+    ],
+    "target": "cantempréstraat"
+  },
+  {
+    "userid": 16,
+    "requests": [
+      "e",
+      "el",
+      "elf"
+    ],
+    "target": "elf-novemberstraat"
+  },
+  {
+    "userid": 16,
+    "requests": [
+      "elf j",
+      "elf ju",
+      "elf jul"
+    ],
+    "target": "elf juliplein"
+  },
+  {
+    "userid": 16,
+    "requests": [
+      "elfjul"
+    ],
+    "target": "elfjulisingel"
+  },
+  {
+    "userid": 16,
+    "requests": [
+      "elf-jul"
+    ],
+    "target": "elf-juliwijk"
+  },
+  {
+    "userid": 16,
+    "requests": [
+      "g",
+      "ge",
+      "gen",
+      "gent"
+    ],
+    "target": "gentianenstraat"
+  },
+  {
+    "userid": 18,
+    "requests": [
+      "Elf"
+    ],
+    "target": "Elfenbankdreef"
+  },
+  {
+    "userid": 18,
+    "requests": [
+      "E",
+      "El"
+    ],
+    "target": "Elckerliclaan"
+  },
+  {
+    "userid": 18,
+    "requests": [
+      "Elf-",
+      "Elf-J"
+    ],
+    "target": "Elf-Julistraat"
+  },
+  {
+    "userid": 18,
+    "requests": [
+      "B",
+      "Be",
+      "BeC"
+    ],
+    "target": "BeCco village"
+  },
+  {
+    "userid": 19,
+    "requests": [
+      "g",
+      "ge",
+      "gen"
+    ],
+    "target": "genitsstraat"
+  },
+  {
+    "userid": 19,
+    "requests": [
+      "ge"
+    ],
+    "target": "gebanne-groezenstraat"
+  },
+  {
+    "userid": 20,
+    "requests": [
+      "g"
+    ],
+    "target": "g.a. brederostraat"
+  },
+  {
+    "userid": 20,
+    "requests": [
+      "F",
+      "Fo",
+      "Fod"
+    ],
+    "target": "Fodderiestraat"
+  },
+  {
+    "userid": 21,
+    "requests": [
+      "Fod"
+    ],
+    "target": "Fodderiestraat"
+  },
+  {
+    "userid": 19,
+    "requests": [
+      "F",
+      "FO",
+      "FOD"
+    ],
+    "target": "FODderiestraat"
+  },
+  {
+    "userid": 22,
+    "requests": [
+      "F",
+      "FO",
+      "FOD"
+    ],
+    "target": "FODderiestraat"
+  },
+  {
+    "userid": 23,
+    "requests": [
+      "Zwemdoklei"
+    ],
+    "target": "Zwemdoklei"
+  }
+]
